@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Reports on the status of the torrent
-Summary(pl):	Raportowanie o stanie potoku BitTorrenta
+Summary(pl.UTF-8):   Raportowanie o stanie potoku BitTorrenta
 Name:		torrentsniff
 Version:	0.3.0
 Release:	1
@@ -19,9 +19,9 @@ TorrentSniff is a command line Perl program that reads a BitTorrent
 .torrent file from the local file system or from a URL and reports on
 the status of the torrent.
 
-%description -l pl
-TorrentSniff to perlowy program dzia³aj±cy z linii poleceñ, który
-odczytuje plik .torrent z lokalnego systemu plików lub URL-a i
+%description -l pl.UTF-8
+TorrentSniff to perlowy program dziaÅ‚ajÄ…cy z linii poleceÅ„, ktÃ³ry
+odczytuje plik .torrent z lokalnego systemu plikÃ³w lub URL-a i
 raportuje stan potoku.
  
 %prep
