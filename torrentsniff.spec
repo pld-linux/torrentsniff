@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	Reports on the status of the torrent
 Summary(pl.UTF-8):	Raportowanie o stanie potoku BitTorrenta
 Name:		torrentsniff
